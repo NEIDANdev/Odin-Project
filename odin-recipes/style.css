@@ -1,7 +1,21 @@
 .headers {
+  box-sizing: border-box;
   font-family: "Courier New", "Tahoma", monospace;
   font-size: 100px;
   background-color: #E0FFFF;
+  margin: 8px;
+  text-align: center;
+}
+
+.ingredients,
+.steps {
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.images {
+  display: block;
+  margin: 0 auto;
 }
 
 .recipes {
@@ -12,6 +26,7 @@
 }
 
 .titles {
+  margin: 10px 8px;
   font-family: "Verdana";
   font-size: 75px;
   font-weight: 200;
@@ -20,5 +35,5 @@
 }
 
 .texts {
-  font-size: 50px;
+  font-size: 20px;
 }
