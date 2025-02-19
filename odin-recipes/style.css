@@ -1,0 +1,24 @@
+.headers {
+  font-family: "Courier New", "Tahoma", monospace;
+  font-size: 100px;
+  background-color: #E0FFFF;
+}
+
+.recipes {
+  font-family: "Tahoma", monospace;
+  font-size: 50px;
+  background-color: #0D98BA;
+  color: #F0F8FF;
+}
+
+.titles {
+  font-family: "Verdana";
+  font-size: 75px;
+  font-weight: 200;
+  background-color: #007BA7;
+  color: #F0F8FF;
+}
+
+.texts {
+  font-size: 50px;
+}
